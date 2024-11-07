@@ -54,31 +54,46 @@
 </p>
 
 ---
+### 🌐 Data Skills & Tools
 
-### 📊 Analytics Quest - My Data Journey
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-Exploring%20anime%20data%20trends%20📈-blue" />
-</p>
-
-- **Current Mission**: Analyzing the rise of popular anime genres and character arcs through data 📉✨.
-- **Favorite Tool**: [SQL](https://www.sqltutorial.org/) for unlocking data’s hidden secrets 🗝️.
-- **Sidekick**: Python 🐍 - my coding companion for all things data wrangling and visualization!
-
----
-
-### 📺 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| **Anime Viewership Insights** | An interactive dashboard that visualizes viewer demographics and trends in popular anime genres. |
-| **Character Popularity Analysis** | Analyzing character popularity across various anime series, using data storytelling techniques. |
-| **Sales Forecasting** | Using advanced analytics to forecast seasonal trends, just like predicting plot twists in a great anime series. |
+| Skill Area               | Tools & Technologies                                                                                                         |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Languages & Scripting**| SQL, Python (Pandas, NumPy), R, Shell Scripting                                                                              |
+| **Data Visualization**   | Tableau, Power BI, Looker, Google Data Studio, Matplotlib, Seaborn                                                           |
+| **Data Management**      | MySQL, PostgreSQL, Oracle SQL, SQL Server, BigQuery, Snowflake, MongoDB                                                      |
+| **ETL & Processing**     | Alteryx, Talend, Apache Spark, AWS Glue                                                                                      |
+| **Cloud Platforms**      | AWS (EC2, S3, Redshift), Azure, Google Cloud                                                                                 |
+| **Certifications**       | AWS Certified Cloud Practitioner, Microsoft Power BI Data Analyst Associate                                                  |
 
 ---
 
-### 🎮 Anime-Inspired Stats
-```yaml
-- 🎯 SQL Mastery: 90%
-- 🚀 Python Coding Level: 85%
-- 📈 Data Visualization: 95%
-- 🌌 Anime References: Over 9000! 
+### 🔎 Current Focus: Data-Driven Storytelling
+
+Today’s world is full of complex datasets, but the real impact comes from how we turn that data into meaningful, actionable insights. My work focuses on:
+
+- **Crafting Impactful Dashboards**: Visualizing data in ways that make it easy for anyone to understand, make decisions, and act.
+- **Efficient Data Pipelines**: Building optimized ETL processes that enable fast, accurate data retrieval and reduce redundant data tasks.
+- **Predictive Analytics**: Using statistics and machine learning to predict trends and inform strategy in business contexts.
+
+---
+
+### 📊 Featured Projects
+
+| Project                          | Description                                                                                                           |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Customer Insights Dashboard**  | A comprehensive dashboard providing real-time customer insights, used by cross-functional teams for strategic planning.|
+| **Sales & Trend Forecasting**    | Applied seasonal forecasting to anticipate retail trends, helping teams prepare for peak demand cycles.               |
+| **Data Quality Assurance**       | Designed automated workflows for data quality checks, reducing data errors and improving report reliability by 15%.   |
+
+---
+
+### 🌱 Lifelong Learning in a Data-Driven World
+
+As a data analyst, I believe in the power of continuous learning and adaptation. In a field that’s always evolving, I stay updated on the latest tools, techniques, and best practices to keep my work impactful and relevant.
+
+---
+
+### 💼 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaraghusai) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaraghu.e@gmail.com)
+
