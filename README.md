@@ -94,6 +94,6 @@ As a data analyst, I believe in the power of continuous learning and adaptation.
 ---
 
 ### 💼 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaraghusai) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanya-raghu-sai-e-10b74518b) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyaraghu.e@gmail.com)
 
